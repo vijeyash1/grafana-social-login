@@ -2,9 +2,9 @@
 # references:
 #   [config](https://grafana.com/docs/grafana/latest/setup-grafana/configure-grafana/#config-file-locations)
 
-# [github-OAuth](https://grafana.com/docs/grafana/latest/auth/github/)
+# [github-OAuth](https://grafana.com/docs/grafana/latest/setup-grafana/configure-security/configure-authentication/github/)
 
-# [google-OAuth](https://grafana.com/docs/grafana/latest/auth/google/)
+# [google-OAuth](https://grafana.com/docs/grafana/latest/setup-grafana/configure-security/configure-authentication/google/)
 
 # [gitlab-OAuth](https://grafana.com/docs/grafana/latest/auth/gitlab/)
 
